@@ -1,0 +1,23 @@
+{
+  "name": "dappairdrop(project-c-s-b)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.2",
+    "path": "^0.12.7",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.4.0"
+  }
+}
